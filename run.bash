@@ -10,7 +10,7 @@ set -e
 dist_id=""
 release=""
 codename=""
-host_ip="192.168.33.10"
+host_ip="192.168.42.10"
 host_name="hive.guokr.com"
 set_interface=""
 is_debug=""
